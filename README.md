@@ -3,6 +3,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href=""> <img 
         src="http://img.shields.io/badge/-inha_cse@naver.com-white?style=flat&logo=Naver&link="
+                    style="height : auto; margin-left : 10px; margin-right: 10px;"/> 
         ></a>
         
 
