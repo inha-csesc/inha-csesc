@@ -15,5 +15,5 @@
  <img src="http://img.shields.io/badge/-inha_cse@naver.com-white?style=social&logo=Naver&link="
 </a>
 
-<h2>💡Member💡</h2>
+<h2>💡Management Team💡</h2>
 
