@@ -16,4 +16,8 @@
 </a>
 
 <h2>💡Management Team💡</h2>
+👑19학번 이승준👑</br>
+📞 010-9575-3502 </br>
+ <img src="http://img.shields.io/badge/-sj3503-white?style=social&logo=KaoKaoTalk&link="
+
 
