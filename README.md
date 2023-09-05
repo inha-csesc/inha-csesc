@@ -14,6 +14,9 @@
 <a href=""> 
  <img src="http://img.shields.io/badge/-inha_cse@naver.com-03C75A?style=for-the-badge&logo=Naver&link="
 </a>
+</br>
+</br>
+</br>
 
 <h2>💡Management Team💡</h2>
 👑19학번 이승준👑</br>
