@@ -7,17 +7,20 @@
 
 <h3>☁️SNS list☁️</h3>
 <a href="https://www.instagram.com/csesc_41st/" target="_blank"> 
-<img  src="http://img.shields.io/badge/-csesc_41st-pink?style=social&logo=Instagram&link=https://instagram.com/csesc_41st/"
+<img  src="http://img.shields.io/badge/-csesc_41st-pink?style=for-the-badge&logo=Instagram&link=https://instagram.com/csesc_41st/"
 </a>
 
 <h3>☁️Email☁️</h3>
 <a href=""> 
- <img src="http://img.shields.io/badge/-inha_cse@naver.com-white?style=social&logo=Naver&link="
+ <img src="http://img.shields.io/badge/-inha_cse@naver.com-03C75A?style=for-the-badge&logo=Naver&link="
 </a>
 
 <h2>💡Management Team💡</h2>
 👑19학번 이승준👑</br>
 📞 010-9575-3502 </br>
- <img src="http://img.shields.io/badge/-sj3503-white?style=social&logo=KaoKaoTalk&link="
+ <img src="https://img.shields.io/badge/-sj3503-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
+ <img src="https://img.shields.io/badge/-sengjun0624@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+
+
 
 
